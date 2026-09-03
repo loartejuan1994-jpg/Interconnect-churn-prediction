@@ -84,8 +84,7 @@ jupyter notebook Codigo_de_solucion_proyecto_final.ipynb
 
 ## ✍️ Autor
 
-**Juan Buri Loarte** — Jr. Geology and Mining Engineer con especialización en Ciencia de Datos.
-[GitHub](https://github.com/loartejuan1994-jpg)
+**Juan Buri Loarte** Data Scientist Jr.
 
 ---
 
