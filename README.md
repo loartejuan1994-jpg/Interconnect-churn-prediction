@@ -2,7 +2,7 @@
 
 ## 📋 Contexto del negocio
 
-Para evitar la pérdida de ingresos y retener a sus usuarios, la empresa Interconnect —proveedora de telefonía fija, internet (DSL y fibra óptica) y servicios adicionales como seguridad y streaming— implementó un modelo analítico con el fin de anticipar la cancelación de clientes (churn) a partir de su información contractual y de consumo. Este análisis es crucial para el negocio, ya que permite diseñar estrategias de retención personalizadas y oportunas antes de que los usuarios abandonen la compañía. Como resultado de este esfuerzo, el modelo predictivo logró un excelente desempeño al detectar con éxito a aproximadamente 8 de cada 10 clientes que efectivamente decidieron cancelar sus servicios.
+Para evitar la pérdida de ingresos y retener a sus usuarios, la empresa Interconnect —proveedora de telefonía fija, internet (DSL y fibra óptica) y servicios adicionales como seguridad y streaming, implementó un modelo analítico con el fin de anticipar la cancelación de clientes (churn) a partir de su información contractual y de consumo. Este análisis es crucial para el negocio, ya que permite diseñar estrategias de retención personalizadas y oportunas antes de que los usuarios abandonen la compañía. Como resultado de este esfuerzo, el modelo predictivo logró un excelente desempeño al detectar con éxito a aproximadamente 8 de cada 10 clientes que efectivamente decidieron cancelar sus servicios.
 
 - **Variable objetivo:** `EndDate == 'No'` → cliente activo (0) / cliente cancelado (1)
 - **Métrica principal:** AUC-ROC
