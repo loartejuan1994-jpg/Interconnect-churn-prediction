@@ -1,4 +1,4 @@
-# Predicción de Cancelación de Clientes (Churn) — Interconnect
+# Predicción de Cancelación de Clientes (Churn) - Interconnect
 
 ## 📋 Contexto del negocio
 
