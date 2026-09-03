@@ -1,10 +1,8 @@
 # Predicción de Cancelación de Clientes (Churn) — Interconnect
 
-Proyecto final del bootcamp de Ciencia de Datos (TripleTen). Desarrollo de un modelo de clasificación que predice si un cliente de la operadora de telecomunicaciones **Interconnect** cancelará su servicio, con el fin de que el equipo de marketing pueda ofrecer códigos promocionales o planes especiales a los clientes en riesgo de abandono.
-
 ## 📋 Contexto del negocio
 
-Interconnect ofrece servicios de telefonía fija e internet (DSL y fibra óptica), además de servicios adicionales como seguridad en línea, soporte técnico, backup en la nube y streaming de TV/películas. El objetivo es anticipar la cancelación (**churn**) a partir de la información contractual, demográfica y de servicios de cada cliente.
+Interconnect ofrece servicios de telefonía fija e internet (DSL y fibra óptica), además de servicios adicionales como seguridad en línea, soporte técnico, backup en la nube y streaming de TV/películas. La empresa necesita anticipar la cancelación (**churn**) a partir de la información contractual y de servicios de cada cliente. Como resultado el modelo detectó aproximadamente a 8 de cada 10 clientes que sí cancelan. 
 
 - **Variable objetivo:** `EndDate == 'No'` → cliente activo (0) / cliente cancelado (1)
 - **Métrica principal:** AUC-ROC
